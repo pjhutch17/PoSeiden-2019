@@ -1,0 +1,23 @@
+﻿1000,Teacake,0.40
+1001,Sliced Bread,0.10
+1002,Current Teacake,0.45
+1003,Bacon Sandwich,0.60
+1004,Sausage Sandwich,0.60
+1005,English Breakfast,3.00
+1006,Cereal,0.60
+1007,Porridge,0.60
+1008,English Tea,0.50
+1009,Coffee,0.60
+1010,Scone,0.70
+1011,Fish and Chips,3.00
+1012,Toad in the Hole meal,3.00
+1013,Turkey meal,3.20
+1014,Beef slice meal,3.60
+1015,Lamb chops meal,3.50
+1016,Toad in the Hole meal,3.40
+1017,Shepherds Pie meal,3.50
+1018,Cottage Pie meal,3.50
+1019,Lasagne,3.00
+1020,Chilli con Curry,2.90
+1021,Chicken Tikka,2.90
+1022,Chicken Korma,2.90
